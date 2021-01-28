@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="651px" height="650px" viewBox="0 0 651 650" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-184.000000, -588.000000)">
+            <g id="Group" transform="translate(-82.000000, 523.500000)">
+                <circle id="Oval" stroke="#C1BEAB" fill="#FFDE00" transform="translate(591.508276, 389.500000) rotate(77.000000) translate(-591.508276, -389.500000) " cx="591.508276" cy="389.5" r="324.17047"></circle>
+                <text id="MOM" font-family="Murmansk-Regular, Murmansk" font-size="275" font-weight="normal" letter-spacing="8.59375" fill="#033047">
+                    <tspan x="364.115667" y="396.830201">MOM</tspan>
+                </text>
+                <text id="I-AM-SAFE" font-family="BebasNeue-Regular, Bebas Neue" font-size="150" font-weight="normal" letter-spacing="8" fill="#033047">
+                    <tspan x="345.118792" y="569.264874">I AM SAFE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c96cea351b746d8b48cde975ce38f73",
+    "revision": "1c57a219ff0a7f084cfa52438541d150",
     "url": "/SIGGRAPH2021/index.html"
   },
   {

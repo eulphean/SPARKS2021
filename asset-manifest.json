@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SIGGRAPH2021/static/css/main.46d2737d.chunk.css",
-    "main.js": "/SIGGRAPH2021/static/js/main.27c1d168.chunk.js",
-    "main.js.map": "/SIGGRAPH2021/static/js/main.27c1d168.chunk.js.map",
+    "main.js": "/SIGGRAPH2021/static/js/main.bb02caae.chunk.js",
+    "main.js.map": "/SIGGRAPH2021/static/js/main.bb02caae.chunk.js.map",
     "runtime-main.js": "/SIGGRAPH2021/static/js/runtime-main.4985de5a.js",
     "runtime-main.js.map": "/SIGGRAPH2021/static/js/runtime-main.4985de5a.js.map",
     "static/js/2.b87a1b1f.chunk.js": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js",
     "static/js/2.b87a1b1f.chunk.js.map": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js.map",
     "index.html": "/SIGGRAPH2021/index.html",
-    "precache-manifest.b85b19a25aa22ea9e214dd753c444b39.js": "/SIGGRAPH2021/precache-manifest.b85b19a25aa22ea9e214dd753c444b39.js",
+    "precache-manifest.ec817a6cc5881254f4fe04668a2ce2e9.js": "/SIGGRAPH2021/precache-manifest.ec817a6cc5881254f4fe04668a2ce2e9.js",
     "service-worker.js": "/SIGGRAPH2021/service-worker.js",
     "static/css/main.46d2737d.chunk.css.map": "/SIGGRAPH2021/static/css/main.46d2737d.chunk.css.map",
     "static/js/2.b87a1b1f.chunk.js.LICENSE.txt": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js.LICENSE.txt",
@@ -17,7 +17,7 @@
     "static/media/antidote3.jpg": "/SIGGRAPH2021/static/media/antidote3.93358af5.jpg",
     "static/media/antidote4.jpg": "/SIGGRAPH2021/static/media/antidote4.b319c913.jpg",
     "static/media/stylesheet.css": "/SIGGRAPH2021/static/media/krungthep-webfont.98bfdb66.woff2",
-    "static/media/intimacy.30340bd2.svg": "/SIGGRAPH2021/static/media/intimacy.30340bd2.svg",
+    "static/media/intimacy.a93ccb2a.svg": "/SIGGRAPH2021/static/media/intimacy.a93ccb2a.svg",
     "static/media/labour1.jpg": "/SIGGRAPH2021/static/media/labour1.24d17f6a.jpg",
     "static/media/labour2.jpg": "/SIGGRAPH2021/static/media/labour2.9b9850d7.jpg",
     "static/media/labour3.jpg": "/SIGGRAPH2021/static/media/labour3.de1795c7.jpg",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.4985de5a.js",
     "static/js/2.b87a1b1f.chunk.js",
     "static/css/main.46d2737d.chunk.css",
-    "static/js/main.27c1d168.chunk.js"
+    "static/js/main.bb02caae.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e1cbeb67ef886a12521d18fb8e61058",
+    "revision": "cf6695395903b61cbf36645a7ff316e8",
     "url": "/SIGGRAPH2021/index.html"
   },
   {
-    "revision": "880041e6c4438f465fca",
+    "revision": "88ba93653b4ccb50354f",
     "url": "/SIGGRAPH2021/static/css/main.46d2737d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "880041e6c4438f465fca",
-    "url": "/SIGGRAPH2021/static/js/main.27c1d168.chunk.js"
+    "revision": "88ba93653b4ccb50354f",
+    "url": "/SIGGRAPH2021/static/js/main.bb02caae.chunk.js"
   },
   {
     "revision": "b89630d6a7114c41eaa9",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SIGGRAPH2021/static/media/din_alternate_bold-webfont.9cb6e9ea.woff2"
   },
   {
-    "revision": "30340bd28fc182f8fe0f93adee6cc4b3",
-    "url": "/SIGGRAPH2021/static/media/intimacy.30340bd2.svg"
+    "revision": "a93ccb2abdebd19bc351c66fbddc2a88",
+    "url": "/SIGGRAPH2021/static/media/intimacy.a93ccb2a.svg"
   },
   {
     "revision": "1b0d842d859ef71b88b11b47441e074f",

@@ -1,37 +1,35 @@
 {
   "files": {
     "main.css": "/SIGGRAPH2021/static/css/main.46d2737d.chunk.css",
-    "main.js": "/SIGGRAPH2021/static/js/main.a047eb6e.chunk.js",
-    "main.js.map": "/SIGGRAPH2021/static/js/main.a047eb6e.chunk.js.map",
+    "main.js": "/SIGGRAPH2021/static/js/main.27c1d168.chunk.js",
+    "main.js.map": "/SIGGRAPH2021/static/js/main.27c1d168.chunk.js.map",
     "runtime-main.js": "/SIGGRAPH2021/static/js/runtime-main.4985de5a.js",
     "runtime-main.js.map": "/SIGGRAPH2021/static/js/runtime-main.4985de5a.js.map",
-    "static/js/2.d2e5b405.chunk.js": "/SIGGRAPH2021/static/js/2.d2e5b405.chunk.js",
-    "static/js/2.d2e5b405.chunk.js.map": "/SIGGRAPH2021/static/js/2.d2e5b405.chunk.js.map",
+    "static/js/2.b87a1b1f.chunk.js": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js",
+    "static/js/2.b87a1b1f.chunk.js.map": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js.map",
     "index.html": "/SIGGRAPH2021/index.html",
-    "precache-manifest.e104d50162e0d7134ad6ad73b1bacb70.js": "/SIGGRAPH2021/precache-manifest.e104d50162e0d7134ad6ad73b1bacb70.js",
+    "precache-manifest.b85b19a25aa22ea9e214dd753c444b39.js": "/SIGGRAPH2021/precache-manifest.b85b19a25aa22ea9e214dd753c444b39.js",
     "service-worker.js": "/SIGGRAPH2021/service-worker.js",
     "static/css/main.46d2737d.chunk.css.map": "/SIGGRAPH2021/static/css/main.46d2737d.chunk.css.map",
-    "static/js/2.d2e5b405.chunk.js.LICENSE.txt": "/SIGGRAPH2021/static/js/2.d2e5b405.chunk.js.LICENSE.txt",
+    "static/js/2.b87a1b1f.chunk.js.LICENSE.txt": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js.LICENSE.txt",
     "static/media/antidote1.jpg": "/SIGGRAPH2021/static/media/antidote1.e081af03.jpg",
     "static/media/antidote2.jpg": "/SIGGRAPH2021/static/media/antidote2.f66203ce.jpg",
     "static/media/antidote3.jpg": "/SIGGRAPH2021/static/media/antidote3.93358af5.jpg",
     "static/media/antidote4.jpg": "/SIGGRAPH2021/static/media/antidote4.b319c913.jpg",
     "static/media/stylesheet.css": "/SIGGRAPH2021/static/media/krungthep-webfont.98bfdb66.woff2",
+    "static/media/intimacy.30340bd2.svg": "/SIGGRAPH2021/static/media/intimacy.30340bd2.svg",
     "static/media/labour1.jpg": "/SIGGRAPH2021/static/media/labour1.24d17f6a.jpg",
     "static/media/labour2.jpg": "/SIGGRAPH2021/static/media/labour2.9b9850d7.jpg",
     "static/media/labour3.jpg": "/SIGGRAPH2021/static/media/labour3.de1795c7.jpg",
     "static/media/live.3de1016c.svg": "/SIGGRAPH2021/static/media/live.3de1016c.svg",
     "static/media/momimsafe.d53f391c.svg": "/SIGGRAPH2021/static/media/momimsafe.d53f391c.svg",
-    "static/media/siggraph.jpg": "/SIGGRAPH2021/static/media/siggraph.020ea58f.jpg",
-    "static/media/sparks.jpg": "/SIGGRAPH2021/static/media/sparks.aa582431.jpg",
     "static/media/sponsors.jpg": "/SIGGRAPH2021/static/media/sponsors.19fb95ee.jpg",
-    "static/media/thanks.jpg": "/SIGGRAPH2021/static/media/thanks.24264014.jpg",
-    "static/media/yearning.19d48f2e.svg": "/SIGGRAPH2021/static/media/yearning.19d48f2e.svg"
+    "static/media/thanks.jpg": "/SIGGRAPH2021/static/media/thanks.24264014.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4985de5a.js",
-    "static/js/2.d2e5b405.chunk.js",
+    "static/js/2.b87a1b1f.chunk.js",
     "static/css/main.46d2737d.chunk.css",
-    "static/js/main.a047eb6e.chunk.js"
+    "static/js/main.27c1d168.chunk.js"
   ]
 }

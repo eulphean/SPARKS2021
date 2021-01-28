@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d46623cf48f9633d2f5e23aab62e9f63",
+    "revision": "9e1cbeb67ef886a12521d18fb8e61058",
     "url": "/SIGGRAPH2021/index.html"
   },
   {
-    "revision": "8e607fb1b5f45a1cd51b",
+    "revision": "880041e6c4438f465fca",
     "url": "/SIGGRAPH2021/static/css/main.46d2737d.chunk.css"
   },
   {
-    "revision": "f3bc5131c036a88125f7",
-    "url": "/SIGGRAPH2021/static/js/2.d2e5b405.chunk.js"
+    "revision": "e804a591ba2653b4293b",
+    "url": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js"
   },
   {
     "revision": "1a1a42c150bd05496b97b265c552c789",
-    "url": "/SIGGRAPH2021/static/js/2.d2e5b405.chunk.js.LICENSE.txt"
+    "url": "/SIGGRAPH2021/static/js/2.b87a1b1f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e607fb1b5f45a1cd51b",
-    "url": "/SIGGRAPH2021/static/js/main.a047eb6e.chunk.js"
+    "revision": "880041e6c4438f465fca",
+    "url": "/SIGGRAPH2021/static/js/main.27c1d168.chunk.js"
   },
   {
     "revision": "b89630d6a7114c41eaa9",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SIGGRAPH2021/static/media/din_alternate_bold-webfont.9cb6e9ea.woff2"
   },
   {
+    "revision": "30340bd28fc182f8fe0f93adee6cc4b3",
+    "url": "/SIGGRAPH2021/static/media/intimacy.30340bd2.svg"
+  },
+  {
     "revision": "1b0d842d859ef71b88b11b47441e074f",
     "url": "/SIGGRAPH2021/static/media/krungthep-webfont.1b0d842d.woff"
   },
@@ -84,23 +88,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SIGGRAPH2021/static/media/momimsafe.d53f391c.svg"
   },
   {
-    "revision": "020ea58f7137918e2c9b4f49b2d408f7",
-    "url": "/SIGGRAPH2021/static/media/siggraph.020ea58f.jpg"
-  },
-  {
-    "revision": "aa582431642af936684958972115c004",
-    "url": "/SIGGRAPH2021/static/media/sparks.aa582431.jpg"
-  },
-  {
     "revision": "19fb95eeccba6ab2e397008b4cf63b7b",
     "url": "/SIGGRAPH2021/static/media/sponsors.19fb95ee.jpg"
   },
   {
     "revision": "242640144d8b4d510ecf527d7107767d",
     "url": "/SIGGRAPH2021/static/media/thanks.24264014.jpg"
-  },
-  {
-    "revision": "19d48f2e84e401563cf4991f1dc6a395",
-    "url": "/SIGGRAPH2021/static/media/yearning.19d48f2e.svg"
   }
 ]);

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "935108dd478cd9e37f55bab7b24e6214",
+    "revision": "0455c477b2cdd708072f09ddb4369219",
     "url": "/SPARKS2021/index.html"
   },
   {
-    "revision": "fdad2d951ea67e13a8ab",
+    "revision": "61f2283ed93326c5b998",
     "url": "/SPARKS2021/static/css/main.cf41b76e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SPARKS2021/static/js/2.e0362fc2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fdad2d951ea67e13a8ab",
-    "url": "/SPARKS2021/static/js/main.8e27e410.chunk.js"
+    "revision": "61f2283ed93326c5b998",
+    "url": "/SPARKS2021/static/js/main.da07a29b.chunk.js"
   },
   {
     "revision": "cf7125e30431fa938180",
@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SPARKS2021/static/media/sponsors.19fb95ee.jpg"
   },
   {
-    "revision": "6516c136701ede2bbb355c4dd589d60d",
-    "url": "/SPARKS2021/static/media/thanks.6516c136.jpg"
+    "revision": "bdd57e0287f4a0ac49ed8664a7507ab3",
+    "url": "/SPARKS2021/static/media/thanks.bdd57e02.jpg"
   }
 ]);
